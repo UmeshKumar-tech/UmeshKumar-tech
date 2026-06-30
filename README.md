@@ -2,16 +2,20 @@
 
 ## Java Backend Developer
 
-### 🚀 Tech Stack
+I have 4 years of experience in Java backend development, building REST APIs and microservices using Spring Boot.
+
+## 🚀 Tech Stack
 
 - Java
 - Spring Boot
+- Spring Security
 - REST APIs
 - Microservices
 - MySQL
+- Maven
+- Git
 
+## 🎯 Current Goal
 
-### 🎯 Current Goal
-
-Building production-ready Spring Boot projects for international freelancing.
+Building production-ready backend applications and growing as an international Java freelancer.
 
